@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3. Resouces/Personal Knowledge Management/PARA/Outline.md",
+            "file": "Untitled.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resouces/Personal Knowledge Management/PARA/Outline.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,9 +115,9 @@
   },
   "active": "9e2093afa62ad19f",
   "lastOpenFiles": [
+    "Untitled.md",
     "3. Resouces/Personal Knowledge Management/PARA/Outline.md",
     "2021-10-09.md",
-    "Untitled.md",
     "3. Resouces/Traffic Data/Traffic Data.md",
     "Templates/Organisations.md",
     "Traffic Speed Bot.md",
