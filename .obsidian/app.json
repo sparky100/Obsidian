@@ -1,0 +1,51 @@
+{
+  "fileSortOrder": "alphabetical",
+  "isSidebarCollapsed": false,
+  "isRightSidedockCollapsed": true,
+  "lastOpenSidebarTab": "File explorer",
+  "lastOpenRightSidedockTab": "",
+  "workspaceLayout": {
+    "id": "7cd23eecca7a7bcb",
+    "type": "split",
+    "dimension": null,
+    "direction": "vertical",
+    "children": [
+      {
+        "id": "c677ef350b13161e",
+        "type": "leaf",
+        "dimension": null,
+        "active": true,
+        "master": "",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "START HERE!.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ]
+  },
+  "lastOpenFiles": [
+    "START HERE!.md",
+    "3. Resouces/Marketing/Beginners Guide to Product Qualified Leads (PQL).md",
+    "1. Projects/PARA Starter Kit/Methodology.md"
+  ],
+  "foldHeading": true,
+  "foldIndent": true,
+  "alwaysUpdateLinks": true,
+  "autoPairMarkdown": true,
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "spellcheck": true,
+  "spellcheckDictionary": [
+    "visualising",
+    "modelling",
+    "PlantUML"
+  ]
+}

@@ -1,0 +1,3 @@
+- [ ]  Send email about priorities
+- [ ] Speak to Rachael about B001 reporting
+- [ ] Encourage support from COE team

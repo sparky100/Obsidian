@@ -1,0 +1,129 @@
+{
+  "main": {
+    "id": "baf433c753e3261e",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e2093afa62ad19f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "3. Resouces/Traffic Data/Traffic Data.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b74ee46d267f6a6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca6cb43e118d69f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "696ff943ed951654",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6dd5f672abd6993a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#ThingstoDo",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f22f16d27eca6c69",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 100
+  },
+  "right": {
+    "id": "cb8094e37c0c1110",
+    "type": "split",
+    "children": [
+      {
+        "id": "5cb97627241d1f87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dff7655573c07caf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3. Resouces/Traffic Data/Traffic Data.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "5c4aba0a73b59b9f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cd091dc4db4f06ca",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "9e2093afa62ad19f",
+  "lastOpenFiles": [
+    "3. Resouces/Traffic Data/Traffic Data.md",
+    "Templates/Organisations.md",
+    "Traffic Speed Bot.md",
+    "3. Resouces/Traffic Data/Untitled.md",
+    "3. Resouces/Traffic Data/Untitled 1.md",
+    "2021-10-09.md",
+    "Traffic Using Here.md",
+    "Untitled 1.md",
+    "2021-08-15.md",
+    "Some ideas.md"
+  ]
+}
