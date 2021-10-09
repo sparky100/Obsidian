@@ -89,7 +89,7 @@ Access to real time traffic and parking information from around Glasgow using th
 
 [Traffic Scotland](https://trafficscotland.org/datex/)
 
-More infsdfsormation can be found at https://trafficscotland.org/datex/
+More information can be found at https://trafficscotland.org/datex/
 
 Traffic locations - https://gcc.azure-api.net/traffic/locations?format=json
 
