@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3. Resouces/Traffic Data/Traffic Data.md",
+            "file": "New file.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resouces/Traffic Data/Traffic Data.md",
+                "file": "New file.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +115,7 @@
   },
   "active": "9e2093afa62ad19f",
   "lastOpenFiles": [
+    "Untitled.md",
     "3. Resouces/Traffic Data/Traffic Data.md",
     "Templates/Organisations.md",
     "Traffic Speed Bot.md",
@@ -123,7 +124,6 @@
     "2021-10-09.md",
     "Traffic Using Here.md",
     "Untitled 1.md",
-    "2021-08-15.md",
-    "Some ideas.md"
+    "2021-08-15.md"
   ]
 }
