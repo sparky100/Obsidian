@@ -13,4 +13,4 @@
 - ![[PARA Notes#Workflow]]
 ## Next steps
 - Tiago's blog
-- Discord
+- Discordww
