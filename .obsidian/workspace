@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "New file.md",
+            "file": "2021-10-09.md",
             "mode": "source"
           }
         }
@@ -60,7 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 487
   },
   "right": {
     "id": "cb8094e37c0c1110",
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New file.md",
+                "file": "2021-10-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,13 +115,13 @@
   },
   "active": "9e2093afa62ad19f",
   "lastOpenFiles": [
+    "2021-10-09.md",
     "Untitled.md",
     "3. Resouces/Traffic Data/Traffic Data.md",
     "Templates/Organisations.md",
     "Traffic Speed Bot.md",
     "3. Resouces/Traffic Data/Untitled.md",
     "3. Resouces/Traffic Data/Untitled 1.md",
-    "2021-10-09.md",
     "Traffic Using Here.md",
     "Untitled 1.md",
     "2021-08-15.md"
