@@ -72,7 +72,7 @@ Number of vehicles that travel past the count point on an average day of the yea
 
 Raw counts
 
-Vehicle counts recorded at this count point.
+Vehicle counts recorded at this count point.ewrwer
 
 17,232
 
