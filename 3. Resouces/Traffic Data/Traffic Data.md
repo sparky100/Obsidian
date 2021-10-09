@@ -85,7 +85,7 @@ Vehicle counts recorded at this count point.
 Glasgow Real Time Data
 [Changelog](https://gcc.developer.azure-api.net/api-changelog#api=55c36a318b3a0306f0009483)
 
-Access to real time traffic and parking information from around Glasgow using the DATEX II protocol.
+Access to real time traffic and parking information from around Glasgow using the DATEX II protocol.s
 
 [Traffic Scotland](https://trafficscotland.org/datex/)
 
