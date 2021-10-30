@@ -2,11 +2,8 @@
 ## Here  API
 More details here :) on the [[Traffic Speed Bot]]
 
-test
-
 ## 
 [Traffic Scotland  Public Transport Information](https://trafficscotland.org/publictransport/)
-
 
 [Quarterly traffic estimates (TRA25)](https://www.gov.uk/government/statistical-data-sets/tra25-quarterly-estimates)
 
