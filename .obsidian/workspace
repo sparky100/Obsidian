@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3. Resouces/Traffic Data/Traffic Data.md",
+            "file": "2021-10-30.md",
             "mode": "source"
           }
         }
@@ -60,7 +60,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 487
+    "width": 197,
+    "collapsed": true
   },
   "right": {
     "id": "cb8094e37c0c1110",
@@ -76,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resouces/Traffic Data/Traffic Data.md",
+                "file": "2021-10-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,14 +108,17 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 100,
+    "collapsed": true
   },
   "active": "9e2093afa62ad19f",
   "lastOpenFiles": [
+    "2021-10-30.md",
+    "3. Resouces/Software Design/Architecture and Modelling/Creating Graphs.md",
     "3. Resouces/Traffic Data/Traffic Data.md",
     "2. Areas/PhD/Research Interests/PhysiCell An open source physics-based cell simulator for 3-D multicellular systems.md",
     "2021-10-09.md",
@@ -122,8 +126,6 @@
     "3. Resouces/Personal Knowledge Management/PARA/Outline.md",
     "Templates/Organisations.md",
     "Traffic Speed Bot.md",
-    "3. Resouces/Traffic Data/Untitled.md",
-    "3. Resouces/Traffic Data/Untitled 1.md",
-    "Traffic Using Here.md"
+    "3. Resouces/Traffic Data/Untitled.md"
   ]
 }
