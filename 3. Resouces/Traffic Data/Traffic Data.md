@@ -145,3 +145,5 @@ Commuting data
   
 
 [https://data.gov.uk/dataset/208c0e7b-353f-4e2d-8b7a-1a7118467acc/gb-road-traffic-counts](https://data.gov.uk/dataset/208c0e7b-353f-4e2d-8b7a-1a7118467acc/gb-road-traffic-counts)
+
+Scottish data https://roadtraffic.dft.gov.uk/regions/3
