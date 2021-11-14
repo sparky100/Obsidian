@@ -147,3 +147,30 @@ Commuting data
 [https://data.gov.uk/dataset/208c0e7b-353f-4e2d-8b7a-1a7118467acc/gb-road-traffic-counts](https://data.gov.uk/dataset/208c0e7b-353f-4e2d-8b7a-1a7118467acc/gb-road-traffic-counts)
 
 Scottish data https://roadtraffic.dft.gov.uk/regions/3
+
+Roads
+M80
+
+M8
+
+M77
+
+M73
+
+M74
+
+A77
+
+A726
+
+A749
+
+A724
+
+A814
+
+A81
+
+A803
+
+A879
