@@ -102,3 +102,46 @@ People counting
 -   [Download all counts](https://api.ubdc.ac.uk/cctv/download)
 
 
+Strava metro data
+
+[https://metroview.strava.com/application?btn=23rqdNjahCYbrjRIeO1rCF&par=JKObu6xYO4BeBqKYWIG2W](https://metroview.strava.com/application?btn=23rqdNjahCYbrjRIeO1rCF&par=JKObu6xYO4BeBqKYWIG2W)
+
+  
+
+GOOGLE
+
+  
+
+Tom forth
+
+  
+
+Cycle counters
+
+  
+
+Commuting data
+
+  
+
+[https://m.youtube.com/watch?v=yb04czR1ov0](https://m.youtube.com/watch?v=yb04czR1ov0)
+
+  
+
+[https://www.transport.gov.scot/publication/scottish-transport-statistics-no-39-2020-edition/](https://www.transport.gov.scot/publication/scottish-transport-statistics-no-39-2020-edition/)
+
+  
+
+[https://www.google.com/url?q=https://www.transport.gov.scot/media/47636/transport-scotland-monitored-automatic-traffic-counter-data-as-of-31-may-2020.xlsx&sa=U&ved=2ahUKEwjXqJD-95T0AhWygVwKHdkuBg0QFnoECAAQAg&usg=AOvVaw2phoMqYvKz5EDBXRmca61b](https://www.google.com/url?q=https://www.transport.gov.scot/media/47636/transport-scotland-monitored-automatic-traffic-counter-data-as-of-31-may-2020.xlsx&sa=U&ved=2ahUKEwjXqJD-95T0AhWygVwKHdkuBg0QFnoECAAQAg&usg=AOvVaw2phoMqYvKz5EDBXRmca61b)
+
+  
+
+[https://www.theregister.com/2021/04/27/transport_scotland_47m_it_contract/](https://www.theregister.com/2021/04/27/transport_scotland_47m_it_contract/)
+
+  
+
+[https://gcc.portal.azure-api.net/docs/services/55c36a318b3a0306f0009483/operations/563cea91aab82f1168298575](https://gcc.portal.azure-api.net/docs/services/55c36a318b3a0306f0009483/operations/563cea91aab82f1168298575)?
+
+  
+
+[https://data.gov.uk/dataset/208c0e7b-353f-4e2d-8b7a-1a7118467acc/gb-road-traffic-counts](https://data.gov.uk/dataset/208c0e7b-353f-4e2d-8b7a-1a7118467acc/gb-road-traffic-counts)

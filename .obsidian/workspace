@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "3. Resouces/Traffic Data/Traffic Data.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -117,6 +117,7 @@
   "active": "9e2093afa62ad19f",
   "lastOpenFiles": [
     "3. Resouces/Traffic Data/Traffic Data.md",
+    "2021-11-14.md",
     "2021-10-30.md",
     "2021-11-12.md",
     "3. Resouces/Software Design/Architecture and Modelling/Creating Graphs.md",
@@ -124,7 +125,6 @@
     "2021-10-09.md",
     "Untitled.md",
     "3. Resouces/Personal Knowledge Management/PARA/Outline.md",
-    "Templates/Organisations.md",
-    "Traffic Speed Bot.md"
+    "Templates/Organisations.md"
   ]
 }
