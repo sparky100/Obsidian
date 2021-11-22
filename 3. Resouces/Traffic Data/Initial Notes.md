@@ -122,17 +122,13 @@ Cycle counters
 
 Commuting data
 
-  
+  [Scotland's Census Transport](https://www.scotlandscensus.gov.uk/census-results/at-a-glance/transport/)
 
 [https://m.youtube.com/watch?v=yb04czR1ov0](https://m.youtube.com/watch?v=yb04czR1ov0)
 
-  
+  [https://www.transport.gov.scot/publication/scottish-transport-statistics-no-39-2020-edition/](https://www.transport.gov.scot/publication/scottish-transport-statistics-no-39-2020-edition/)
 
-[https://www.transport.gov.scot/publication/scottish-transport-statistics-no-39-2020-edition/](https://www.transport.gov.scot/publication/scottish-transport-statistics-no-39-2020-edition/)
-
-  
-
-[https://www.google.com/url?q=https://www.transport.gov.scot/media/47636/transport-scotland-monitored-automatic-traffic-counter-data-as-of-31-may-2020.xlsx&sa=U&ved=2ahUKEwjXqJD-95T0AhWygVwKHdkuBg0QFnoECAAQAg&usg=AOvVaw2phoMqYvKz5EDBXRmca61b](https://www.google.com/url?q=https://www.transport.gov.scot/media/47636/transport-scotland-monitored-automatic-traffic-counter-data-as-of-31-may-2020.xlsx&sa=U&ved=2ahUKEwjXqJD-95T0AhWygVwKHdkuBg0QFnoECAAQAg&usg=AOvVaw2phoMqYvKz5EDBXRmca61b)
+  [https://www.google.com/url?q=https://www.transport.gov.scot/media/47636/transport-scotland-monitored-automatic-traffic-counter-data-as-of-31-may-2020.xlsx&sa=U&ved=2ahUKEwjXqJD-95T0AhWygVwKHdkuBg0QFnoECAAQAg&usg=AOvVaw2phoMqYvKz5EDBXRmca61b](https://www.google.com/url?q=https://www.transport.gov.scot/media/47636/transport-scotland-monitored-automatic-traffic-counter-data-as-of-31-may-2020.xlsx&sa=U&ved=2ahUKEwjXqJD-95T0AhWygVwKHdkuBg0QFnoECAAQAg&usg=AOvVaw2phoMqYvKz5EDBXRmca61b)
 
   
 
