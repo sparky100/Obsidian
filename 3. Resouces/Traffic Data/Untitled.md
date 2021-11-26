@@ -50,3 +50,5 @@ Get detailed data tables for a wide range of topics and geographies with our dat
 ### [Analytical reports](https://www.scotlandscensus.gov.uk/census-results/analytical-reports/ "Analytical reports")
 
 Read detailed reports that make use of census data to explore various topics.
+
+[Glasgow and Clyde Valley  The Glasgow Indicators Project](https://www.understandingglasgow.com/indicators/transport/trends/glasgow_and_clyde_valley)
