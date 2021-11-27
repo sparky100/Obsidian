@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3. Resouces/Traffic Data/Initial Notes.md",
-            "mode": "preview"
+            "file": "3. Resouces/Open Data/CTC24 - Notes.md",
+            "mode": "source"
           }
         }
       }
@@ -60,7 +60,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 197
+    "width": 197,
+    "collapsed": true
   },
   "right": {
     "id": "cb8094e37c0c1110",
@@ -76,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resouces/Traffic Data/Initial Notes.md",
+                "file": "3. Resouces/Open Data/CTC24 - Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,12 +117,12 @@
   },
   "active": "ec2f9bbda42e1c20",
   "lastOpenFiles": [
+    "3. Resouces/Open Data/CTC24 - Notes.md",
+    "2021-11-27.md",
     "3. Resouces/Traffic Data/Initial Notes.md",
     "3. Resouces/Traffic Data/Census Information.md",
     "3. Resouces/Traffic Data/Untitled 2.md",
     "3. Resouces/Traffic Data/Transport Scotland.md",
-    "2021-11-27.md",
-    "3. Resouces/Open Data/CTC24 - Notes for Transport Project.md",
     "2021-11-26.md",
     "2021-11-24.md",
     "2021-11-22.md",
