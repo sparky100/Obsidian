@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ec2f9bbda42e1c20",
+        "id": "34578b420531ff70",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2021-11-28.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -77,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-11-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +111,7 @@
     "width": 100,
     "collapsed": true
   },
-  "active": "ec2f9bbda42e1c20",
+  "active": "34578b420531ff70",
   "lastOpenFiles": [
     "2021-11-28.md",
     "2021-11-27.md",
