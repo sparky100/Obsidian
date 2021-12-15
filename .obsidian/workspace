@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "9a691b37357d77dc",
+    "id": "951ee28aa228b526",
     "type": "split",
     "children": [
       {
-        "id": "34578b420531ff70",
+        "id": "fd7fc9b7cadcad8e",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -57,8 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 197,
-    "collapsed": true
+    "width": 197
   },
   "right": {
     "id": "cb8094e37c0c1110",
@@ -111,17 +110,17 @@
     "width": 100,
     "collapsed": true
   },
-  "active": "34578b420531ff70",
+  "active": "fd7fc9b7cadcad8e",
   "lastOpenFiles": [
-    "2021-11-28.md",
-    "2021-11-27.md",
-    "3. Resouces/Open Data/CTC24 - Notes.md",
+    "3. Resouces/Traffic Data/Transport Scotland.md",
     "3. Resouces/Traffic Data/Initial Notes.md",
     "3. Resouces/Traffic Data/Census Information.md",
-    "3. Resouces/Traffic Data/Untitled 2.md",
-    "3. Resouces/Traffic Data/Transport Scotland.md",
-    "2021-11-26.md",
-    "2021-11-24.md",
-    "2021-11-22.md"
+    "3. Resouces/Travel/Urban Design/Urban Design - Things to Do.md",
+    "3. Resouces/Travel/Urban Design/4 Ways to make a city more walkable.md",
+    "3. Resouces/Open Data/CTC24 - Notes.md",
+    "2021-12-14.md",
+    "2021-11-28.md",
+    "2021-11-27.md",
+    "3. Resouces/Traffic Data/Untitled 2.md"
   ]
 }
