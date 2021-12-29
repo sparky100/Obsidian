@@ -2,14 +2,22 @@
 ## Here  API
 More details here :) on the [[Traffic Speed Bot]]
 
-## 
+## Traffic Scotland
 [Traffic Scotland  Public Transport Information](https://trafficscotland.org/publictransport/)
 
-[Quarterly traffic estimates (TRA25)](https://www.gov.uk/government/statistical-data-sets/tra25-quarterly-estimates)
+## UK Government data
 
+### UK Data
+[https://data.gov.uk/dataset/208c0e7b-353f-4e2d-8b7a-1a7118467acc/gb-road-traffic-counts](https://data.gov.uk/dataset/208c0e7b-353f-4e2d-8b7a-1a7118467acc/gb-road-traffic-counts)
+
+
+### Scottish Traffic data
+https://roadtraffic.dft.gov.uk/regions/3
+
+### Cycling
 TRA0401: [Pedal cycle traffic (vehicle miles and kilometres) in Great Britain](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/981991/tra0401.ods) (ODS, 19.1KB)
 
-## Traffic volume in miles (TRA01)
+### Traffic volume in miles (TRA01)
 
 TRA0101: [Road traffic (vehicle miles) by vehicle type in Great Britain](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/981969/tra0101.ods) (ODS, 22.2KB)
 
@@ -29,6 +37,7 @@ TRA8902: [Motor vehicle traffic (vehicle miles) by local authority and selected 
 
 TRA8905: [Motor vehicle traffic (vehicle kilometres) by local authority and selected vehicle type in Great Britain](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/982028/tra8905.ods) (ODS, 169KB)
 
+### UK GOV - Glasgow Road Data
 [Road traffic statistics - Local authority Glasgow City](https://roadtraffic.dft.gov.uk/local-authorities/3)
 
 1.70 billion vehicle miles were travelled on roads in Glasgow City in 2020.
@@ -79,9 +88,7 @@ Vehicle counts recorded at this count point.ewrwer
 
 [The effects of the lockdown on traffic in Glasgow](https://www.ubdc.ac.uk/news-media/2020/april/the-effects-of-the-lockdown-on-traffic-in-glasgow/)
 
-Glasgow Real Time Data
-[Changelog](https://gcc.developer.azure-api.net/api-changelog#api=55c36a318b3a0306f0009483)
-
+## Datex II
 Access to real time traffic and parking information from around Glasgow using the DATEX II protocol.s
 
 [Traffic Scotland](https://trafficscotland.org/datex/)
@@ -94,7 +101,7 @@ Traffic - https://gcc.azure-api.net/traffic/movement?format=json
 
 Car Parks - https://gcc.azure-api.net/traffic/carparks?format=json
 
-People counting
+### UBDC People counting
 [UBDC - Avenues project api](https://api.ubdc.ac.uk/cctv/)
 
 -   [/counts](https://api.ubdc.ac.uk/cctv/counts/)
@@ -102,37 +109,26 @@ People counting
 -   [Download all counts](https://api.ubdc.ac.uk/cctv/download)
 
 
-Strava metro data
+### Strava metro data
 
 [https://metroview.strava.com/application?btn=23rqdNjahCYbrjRIeO1rCF&par=JKObu6xYO4BeBqKYWIG2W](https://metroview.strava.com/application?btn=23rqdNjahCYbrjRIeO1rCF&par=JKObu6xYO4BeBqKYWIG2W)
 
   
+### Commuting data
+  [Scotland's Census Transport](https://www.scotlandscensus.gov.uk/census-results/at-a-glance/transport/)
 
-GOOGLE
 
-  
+### Other links
+* GOOGLE
+* Tom forth
+* Cycle counters
 
-Tom forth
-
-  
-
-Cycle counters
-
-  
-
-Commuting data
-
-  
-
+### UBDC Video
 [https://m.youtube.com/watch?v=yb04czR1ov0](https://m.youtube.com/watch?v=yb04czR1ov0)
 
-  
+  [https://www.transport.gov.scot/publication/scottish-transport-statistics-no-39-2020-edition/](https://www.transport.gov.scot/publication/scottish-transport-statistics-no-39-2020-edition/)
 
-[https://www.transport.gov.scot/publication/scottish-transport-statistics-no-39-2020-edition/](https://www.transport.gov.scot/publication/scottish-transport-statistics-no-39-2020-edition/)
-
-  
-
-[https://www.google.com/url?q=https://www.transport.gov.scot/media/47636/transport-scotland-monitored-automatic-traffic-counter-data-as-of-31-may-2020.xlsx&sa=U&ved=2ahUKEwjXqJD-95T0AhWygVwKHdkuBg0QFnoECAAQAg&usg=AOvVaw2phoMqYvKz5EDBXRmca61b](https://www.google.com/url?q=https://www.transport.gov.scot/media/47636/transport-scotland-monitored-automatic-traffic-counter-data-as-of-31-may-2020.xlsx&sa=U&ved=2ahUKEwjXqJD-95T0AhWygVwKHdkuBg0QFnoECAAQAg&usg=AOvVaw2phoMqYvKz5EDBXRmca61b)
+  [https://www.google.com/url?q=https://www.transport.gov.scot/media/47636/transport-scotland-monitored-automatic-traffic-counter-data-as-of-31-may-2020.xlsx&sa=U&ved=2ahUKEwjXqJD-95T0AhWygVwKHdkuBg0QFnoECAAQAg&usg=AOvVaw2phoMqYvKz5EDBXRmca61b](https://www.google.com/url?q=https://www.transport.gov.scot/media/47636/transport-scotland-monitored-automatic-traffic-counter-data-as-of-31-may-2020.xlsx&sa=U&ved=2ahUKEwjXqJD-95T0AhWygVwKHdkuBg0QFnoECAAQAg&usg=AOvVaw2phoMqYvKz5EDBXRmca61b)
 
   
 
@@ -144,33 +140,4 @@ Commuting data
 
   
 
-[https://data.gov.uk/dataset/208c0e7b-353f-4e2d-8b7a-1a7118467acc/gb-road-traffic-counts](https://data.gov.uk/dataset/208c0e7b-353f-4e2d-8b7a-1a7118467acc/gb-road-traffic-counts)
 
-Scottish data https://roadtraffic.dft.gov.uk/regions/3
-
-Roads
-M80
-
-M8
-
-M77
-
-M73
-
-M74
-
-A77
-
-A726
-
-A749
-
-A724
-
-A814
-
-A81
-
-A803
-
-A879
