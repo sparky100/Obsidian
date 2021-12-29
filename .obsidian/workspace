@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "65a0565b65ae459d",
+        "id": "c4490f81820bbc4c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-12-29.md",
+            "file": "Possible Gigs.md",
             "mode": "source",
             "source": false
           }
@@ -40,8 +40,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ThingstoDo",
-                "matchingCase": true,
+                "query": "file:gig",
+                "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
                 "extraContext": false,
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-12-29.md",
+                "file": "Possible Gigs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,17 +116,17 @@
     "width": 100,
     "collapsed": true
   },
-  "active": "65a0565b65ae459d",
+  "active": "c4490f81820bbc4c",
   "lastOpenFiles": [
-    "2021-12-29.md",
     "Possible Gigs.md",
+    "2021-11-22.md",
+    "2021-12-29.md",
     "conflict-files-obsidian-git.md",
+    "3. Resouces/Learning/Podcasts to Listen and Watch.md",
+    "Excalidraw/Drawing 2021-12-29 22.36.50.excalidraw.md",
     "3. Resouces/Traffic Data/Traffic Data.md",
     "2021-11-14.md",
     "2021-10-30.md",
-    "2021-11-12.md",
-    "3. Resouces/Software Design/Architecture and Modelling/Creating Graphs.md",
-    "2. Areas/PhD/Research Interests/PhysiCell An open source physics-based cell simulator for 3-D multicellular systems.md",
-    "2021-10-09.md"
+    "2021-11-12.md"
   ]
 }

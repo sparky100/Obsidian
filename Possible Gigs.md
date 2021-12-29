@@ -16,5 +16,5 @@
 
 8th May [Jake Xerxes Fussell](https://www.thegladcafe.co.uk/events/2022-05-08-jake-xerxes-fussell-the-glad-cafe-1)
 
-ha ha test
+
 
