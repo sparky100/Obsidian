@@ -1,0 +1,12 @@
+20th Feb - [Tickets for Sons of Kemet](https://www.ticketweb.uk/event/sons-of-kemet-oran-mor-tickets/11409945?REFERRAL_ID=tmfeed&irgwc=1&utm_source=296934-Spotify&utm_medium=affiliate&utm_campaign=296934&clickId=WvkxDqz4VxyIU%3AxSV8yN1RxiUkG1WBVWjRVby00)
+
+25th Feb [Big Thief](https://songkick.seetickets.com/event/big-thief/barrowland-ballroom/1950632?aff=id1songkick)
+
+22 June [Horse Tickets  Theatre Royal Glasgow in Glasgow  ATG Tickets](https://www.atgtickets.com/shows/horse/theatre-royal-glasgow/)
+
+17th April [William Crighton](https://www.thegladcafe.co.uk/events/2022-04-17-william-crighton-the-glad-cafe)
+
+1st March [Eric Chenaux](https://www.thegladcafe.co.uk/events/2022-03-01-eric-cheneaux-the-glad-cafe)
+
+8th May [Jake Xerxes Fussell](https://www.thegladcafe.co.uk/events/2022-05-08-jake-xerxes-fussell-the-glad-cafe-1)
+
