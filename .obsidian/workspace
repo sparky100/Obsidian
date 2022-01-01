@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "6f4a7cd707c4d976",
+        "id": "908f84d048b38298",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -110,8 +110,10 @@
     "width": 100,
     "collapsed": true
   },
-  "active": "6f4a7cd707c4d976",
+  "active": "908f84d048b38298",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Excalidraw/Drawing 2021-12-15 23.54.45.excalidraw.md",
     "Excalidraw/Drawing 2021-12-15 19.23.00.excalidraw.md",
     "2021-12-15.md",
     "3. Resouces/Traffic Data/Transport Scotland.md",
@@ -119,8 +121,6 @@
     "3. Resouces/Traffic Data/Census Information.md",
     "3. Resouces/Travel/Urban Design/Urban Design - Things to Do.md",
     "3. Resouces/Travel/Urban Design/4 Ways to make a city more walkable.md",
-    "3. Resouces/Open Data/CTC24 - Notes.md",
-    "2021-12-14.md",
-    "2021-11-28.md"
+    "3. Resouces/Open Data/CTC24 - Notes.md"
   ]
 }

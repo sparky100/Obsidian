@@ -45,6 +45,39 @@
         "status": "unpublished",
         "elements": [
           {
+            "id": "NZ3ekLWMpJXO5qdvy_5dm",
+            "type": "diamond",
+            "x": -189.5,
+            "y": -191,
+            "width": 200,
+            "height": 107,
+            "angle": 0,
+            "strokeColor": "#000000",
+            "backgroundColor": "transparent",
+            "fillStyle": "hachure",
+            "strokeWidth": 1,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [],
+            "strokeSharpness": "sharp",
+            "seed": 1230725804,
+            "version": 217,
+            "versionNonce": 1508177556,
+            "isDeleted": false,
+            "boundElementIds": [
+              "eyNZ8n9YMG7yJTcZLwE6M"
+            ],
+            "updated": 1639612544920
+          }
+        ],
+        "id": "YNBEJRX6lJfXJnA8k3WhB",
+        "created": 1639612566615
+      },
+      {
+        "status": "unpublished",
+        "elements": [
+          {
             "type": "line",
             "version": 513,
             "versionNonce": 1269804437,
