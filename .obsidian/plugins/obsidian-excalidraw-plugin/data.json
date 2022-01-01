@@ -37300,7 +37300,7 @@
     ]
   },
   "patchCommentBlock": false,
-  "imageElementNotice": true,
+  "imageElementNotice": false,
   "runWYSIWYGpatch": true,
   "fixInfinitePreviewLoop": true,
   "mdSVGwidth": 500,
