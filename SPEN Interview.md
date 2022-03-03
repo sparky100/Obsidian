@@ -94,9 +94,29 @@ Link to digitlaisation - linked **data capture / decision making / modelling**
 Approapriate delivery
 	Agile
 	Waterfall
+
+	Awareness, Desire, Knowledge, Ability and Reinforcement
+
+****An agile delivery approach will be used in delivering all data related projects. 
+The Agile Manifesto embodies the
+following core values:
+Individuals and interactions over processes and tools
+Working software over comprehensive documentation
+Customer collaboration over contract negotiation
+Responding to change over following a plan	
 	
+What is design thinking? **While Agile is an approach to problem solving, design thinking is an approach to problem finding**.
 
+****Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.”
 
+Delivery  method
 
+Maturity and review
 
+A data lake is different, because it stores relational data from line of business applications, and non-relational data from mobile apps, IoT devices, and social media. The structure of the data or schema is not defined when data is captured. This means you can store all of your data without careful design or the need to know what questions you might need answers for in the future. Different types of analytics on your data like SQL queries, big data analytics, full text search, real-time analytics, and machine learning can be used to uncover insights.
 
+A data warehouse is a database optimized to analyze relational data coming from transactional systems and line of business applications. The data structure, and schema are defined in advance to optimize for fast SQL queries, where the results are typically used for operational reporting and analysis. Data is cleaned, enriched, and transformed so it can act as the “single source of truth” that users can trust.
+
+## The challenges of Data Lakes
+
+The main challenge with a data lake architecture is that raw data is stored with no oversight of the contents. For a data lake to make data usable, it needs to have defined mechanisms to catalog, and secure data. Without these elements, data cannot be found, or trusted resulting in a “data swamp." Meeting the needs of wider audiences require data lakes to have governance, semantic consistency, and access controls.
