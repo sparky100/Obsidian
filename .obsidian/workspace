@@ -4,13 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b3bcc2d0798a9559",
+        "id": "9c29ea7dc75742c8",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
-          "state": {
-            "file": "Excalidraw/Drawing 2022-01-01 15.53.15.excalidraw.md"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -75,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2022-01-01 15.53.15.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +110,7 @@
     "width": 100,
     "collapsed": true
   },
-  "active": "b3bcc2d0798a9559",
+  "active": "9c29ea7dc75742c8",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2022-01-01 15.53.15.excalidraw.md",
     "3. Resouces/Software Design/Python/f' strings.md",
