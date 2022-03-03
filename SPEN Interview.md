@@ -75,5 +75,28 @@ focus on reduction of Co2
 [[Treat all Data Assets, their associated Metadata and Software Scripts used to process]]
 [[Data Assets as Presumed Open.]]
 
+https://en.wikipedia.org/wiki/Edge_computing
+
+Plan
+Any project
+Milestones 
+Progress
+Benefits
+With any plan more detailed in short terms
+Track Progress
+Accountabilities
+
+
+Stakeholders
+Engagement and Comms
+Demonstrate value benefits
+Link to digitlaisation - linked **data capture / decision making / modelling**
+Approapriate delivery
+	Agile
+	Waterfall
+	
+
+
+
 
 
