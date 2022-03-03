@@ -26,7 +26,7 @@ We also expect you to prepare and present a short 5-10min presentation during th
 
 _“How would you implement a data strategy within a licensed organisation?”_
 
-Data Strategy
+**Data Strategy**
 
 Digitalising the energy system and improving access to this growing, rich data landscape will unlock stakeholder benefits and accelerate the transition to net zero. Our data is an organisational asset, capable of improving our decision making, operations and service to customers. Sharing our data with external parties will lead to better whole system solutions and new, innovative ways of working.
 
