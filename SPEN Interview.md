@@ -120,3 +120,25 @@ A data warehouse is a database optimized to analyze relational data coming from 
 ## The challenges of Data Lakes
 
 The main challenge with a data lake architecture is that raw data is stored with no oversight of the contents. For a data lake to make data usable, it needs to have defined mechanisms to catalog, and secure data. Without these elements, data cannot be found, or trusted resulting in a “data swamp." Meeting the needs of wider audiences require data lakes to have governance, semantic consistency, and access controls.
+
+Our roadmap for data will
+be developed collaboratively and through continuous engagement with our stakeholders
+
+We will introduce training on open / shared data - principles, risk assessments and support for culture change
+
+.We have played an active role in the Energy Networks Association’s “National Energy System Map” (NESM) project.
+
+Our data governance framework will establish the rules and processes to control and assure the data that we use. It will allow us to identify and mitigate risks, comply with legal and regulatory requirements, and ensure that we maximise the value of data to our organisation and for our stakeholders.
+
+Data mastery means knowing how to use data to secure business outcomes, being able to transform data and insights into actions, having the necessary infrastructure, governance, and operations in place, and knowing how to leverage external data and enhance insights to deliver benefits. To achieve data mastery, we will introduce a virtual data governance organisation to support colleagues across the business to oversee quality, governance, and management of data. We will also introduce new conceptual, logical, and physical data maps to protect our underlying data models and provide the required data architecture to cope with the increase in volume and variety of data being captured and processed on our network. This data must be understandable, accessible, and interoperable, with a data owner assigned. (See Annex 4C.1 IT & Digitalisation: 8.4 – Data
+Governance & Mastery).
+
+We recognise the criticality of investing in data to deliver a better future quicker for more people through a digitalised energy system. Within our Data Strategy we have set out 6 critical data pillars which will underpin our broader ED2 digitalisation plans.
+These pillars will enable us to manage and to use our data more effectively, in line with Ofgem’s Data Best Practice Guidance.
+
+We will quality assure our data. We will make it more accessible for more people (internally and externally) so that we can deliver more value for our stakeholders. We will take a ‘presumed open’ approach to data because we recognise the important role that data will play in enabling a flexible energy market, by providing the stimulus for the type of product and service innovations needed to accelerate the transition to Net Zero. Our strategy also emphasises the importance of supporting our people throughout this journey to deliver a better future quicker.
+
+Without this investment, we risk being unable to satisfy our stakeholders’ needs effectively. This becomes even more critical in the future when these 6 data pillars are mission critical to future service models. Realistically, these changes need time to land, be absorbed and be embedded in the organisation so it is important we embark on our journey towards Data Best Practice as soon as we can. There is a considerable amount of work required before the ED2 period to enable us to fully assess the needs of our stakeholders and set out a comprehensive roadmap and approach to deliver this with confidence. 
+
+This document sets out our ambition and overarching target state, aligned with The Data Best Practice Guidance and the ambitions of the Energy Digitalisation and Energy Data Task Forces, to deliver incremental value for stakeholders and our high-level roadmap. Our proposed delivery model will provide the chance for us to learn as we go to increase the relevance and impact of our solutions for stakeholders on a sustainable basis.
+
