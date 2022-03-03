@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "data",
+                "query": "interview",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -113,20 +113,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100,
-    "collapsed": true
+    "width": 100
   },
   "active": "9c29ea7dc75742c8",
   "lastOpenFiles": [
     "SPEN Interview.md",
+    "Ofgem Best Practice.md",
+    "Identify the roles of stakeholders of Data Assets.md",
+    "[.md",
+    "Data.md",
+    "Identify.md",
+    "Data Best Practice Guidance Principles.md",
     "Possible Gigs.md",
     "2021-08-15.md",
-    "New/Untitled.md",
-    "Data Best Practice Guidance Principles.md",
-    "New file.md",
-    "conflict-files-obsidian-git.md",
-    "Excalidraw/Drawing 2022-01-01 15.53.15.excalidraw.md",
-    "3. Resouces/Software Design/Python/f' strings.md",
-    "2022-01-01.md"
+    "New/Untitled.md"
   ]
 }

@@ -1,4 +1,4 @@
-Identify the roles of stakeholders of Data Assets.
+[][Identify the roles of stakeholders of Data Assets].
 Use common terms within Data Assets, Metadata and supporting information.
 Describe data accurately using industry standard Metadata.
 Enable potential Data Users to understand Data Assets by providing supporting
