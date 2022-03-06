@@ -15,7 +15,8 @@ Shift in thinking
 look back
 look forward
 modelling
-evidence based 
+evidence based decision making
+explore model
 
 improve performance  --> need data  -> treat is as an asset -> culture
 -> governance
@@ -29,23 +30,13 @@ Storage
 Provisioning
 Governance
 
-
-
 Maturity
-
-
-
-
-
 * Shift in thinking - data is an asset
 * Culture
 * Stakeholder management
 *  Link to Digitlaisation 
 * Target state
 	
-Data Strategy is driven by your organisation's overall Business Strategy and business model.”
-What does it look like 
-Multiple connected threads
 
 # Implementation
 * Prioritisation
