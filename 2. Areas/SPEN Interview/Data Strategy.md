@@ -1,4 +1,4 @@
-**Data Strategy
+ **Data Strategy
 
 *A data strategy is a highly dynamic process employed to support the acquisition, organization, analysis, and delivery of data in support of business objectives.
 
