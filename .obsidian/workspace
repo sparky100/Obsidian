@@ -7,9 +7,11 @@
         "id": "9c29ea7dc75742c8",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "2. Areas/SPEN Interview/Strategy Drawing.md"
+            "file": "2. Areas/SPEN Interview/Presentation.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -75,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Areas/SPEN Interview/Strategy Drawing.md",
+                "file": "2. Areas/SPEN Interview/Presentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,15 +115,15 @@
   },
   "active": "9c29ea7dc75742c8",
   "lastOpenFiles": [
-    "2. Areas/SPEN Interview/Strategy Drawing.md",
     "2. Areas/SPEN Interview/Presentation.md",
+    "2. Areas/SPEN Interview/Untitled.md",
+    "2. Areas/SPEN Interview/Strategy Drawing.md",
+    "2. Areas/SPEN Interview/Data Strategy.md",
     "2. Areas/SPEN Interview/Interview Notes.md",
     "2. Areas/SPEN Interview/Drawing 2022-03-06 21.25.54.excalidraw.md",
-    "2. Areas/SPEN Interview/Data Strategy.md",
     "Excalidraw/Drawing 2022-03-06 17.47.20.excalidraw.md",
     "2. Areas/SPEN Interview/other notes.md",
     "Excalidraw/Drawing 2022-03-06 17.30.42.excalidraw.md",
-    "Excalidraw/Drawing 2022-03-06 17.25.07.excalidraw.md",
-    "2. Areas/SPEN Interview/Ofgem Best Practice.md"
+    "Excalidraw/Drawing 2022-03-06 17.25.07.excalidraw.md"
   ]
 }

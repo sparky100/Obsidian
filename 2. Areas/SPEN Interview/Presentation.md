@@ -10,6 +10,8 @@ Date
 
 
 # Data Strategy
+![[Pasted image 20220306221527.png]]
+
 Data is managed and used like an asset -paradigm shift
 
 Ownership
@@ -50,6 +52,7 @@ Maturity
 	
 
 # Implementation
+
 
 ![[Pasted image 20220306205951.png]]
 * Prioritisation
