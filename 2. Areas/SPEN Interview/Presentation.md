@@ -10,22 +10,23 @@ Date
 
 
 # Data Strategy
+Data is managed and used like an asset -paradigm shift
 
+Ownership
+Governance
 
+Big change - operational decision making 
 
-
-
-
-
-
-
-Shift in thinking
+Cultural change
 
 look back
 look forward
 modelling
 evidence based decision making
-explore model
+new technologies
+more data
+training 
+education
 
 improve performance  --> need data  -> treat is as an asset -> culture
 -> governance
@@ -40,11 +41,12 @@ Provisioning
 Governance
 
 Maturity
-* Shift in thinking - data is an asset
 * Culture
 * Stakeholder management
 *  Link to Digitlaisation 
 * Target state
+
+
 	
 
 # Implementation
