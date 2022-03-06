@@ -10,6 +10,15 @@ Date
 
 
 # Data Strategy
+
+
+
+
+
+
+
+
+
 Shift in thinking
 
 look back
@@ -40,7 +49,7 @@ Maturity
 
 # Implementation
 
-
+![[Pasted image 20220306205951.png]]
 * Prioritisation
 * Products/Outcomes
 * Approach - agile / waterfall
