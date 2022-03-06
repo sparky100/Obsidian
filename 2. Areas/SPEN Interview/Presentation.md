@@ -1,23 +1,30 @@
 
-#T
+# Title Page
 "How would you implement a data strategy within a licensed organisation?”
 Image with the 3 elements
+Simon Parkinson
+Date
+
+# Some words
+![[Pasted image 20220306172933.png]]
 
 
-
-# What is a Data Strategy
+# Data Strategy
+* 
 * Shift in thinking - data is an asset
 * Culture
 * Stakeholder management
 *  Link to Digitlaisation 
+* Target state
 	
 Data Strategy is driven by your organisation's overall Business Strategy and business model.”
 What does it look like 
 Multiple connected threads
 
-# Delivery
+# Implementation
 * Prioritisation
 * Products/Outcomes
+* Approach - agile / waterfall
 * Governance
 * Planning
 * Quality / review
@@ -30,26 +37,25 @@ Multiple connected threads
 * Learning
 * Benefits tracking 
 
-**Our roadmap for data will be developed collaboratively and through continuous engagement with our stakeholders**
+**Our road map for data will be developed collaboratively and through continuous engagement with our stakeholders**
 
 Maturity Assessment - review 
 
-# Impact of Regulation
+# Culture
+* Communication
+* Training
+* Empowerment
+* Maturity
+* Continuous engagement
+* Demonstrate value
+
+# Regulation
 * understand current obligations
 * shape and understand
-* communicate 
-*	report progress / costs
-*	adjust planing based on feedback	
-*	work with others
+* report progress / changes
+* adjust planing based on feedback	
+* work with others
 
 
-[[Data Strategy]]
-Shared vision
-
-Methodology
-
-Governance
-
-
-![[Pasted image 20220306161710.png]]
-
+# Summary
+![[Pasted image 20220306172933.png]]
