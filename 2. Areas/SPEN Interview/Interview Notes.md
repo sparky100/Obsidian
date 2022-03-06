@@ -61,31 +61,7 @@ improved data quality / methods, flexible services enablement
 - Security of green energy supply/ data to support flexible services, transparency of footprint and
 focus on reduction of Co2
 
-[[Ofgem Best Practice]]
-
-[[Use common terms within Data Assets, Metadata and supporting information.]]
-[[Describe data accurately using industry standard Metadata]]
-[[Enable potential Data Users to understand Data Assets by providing supporting information]]
-[[Make Data Assets discoverable for potential Data Users]]
-[[Learn and deliver to the needs of current and prospective Data Users.]]
-[[Ensure data quality maintenance and improvement is prioritised by Data User needs]].
-[[Ensure Data Assets are interoperable]]
-[[Protect Data Assets and systems in accordance with SPAR best practice.]]
-[[Store, archive and provide access to Data Assets in ways that ensure sustained benefits.]]
-[[Treat all Data Assets, their associated Metadata and Software Scripts used to process]]
-[[Data Assets as Presumed Open.]]
-
-https://en.wikipedia.org/wiki/Edge_computing
-
-Plan
-Any project
-Milestones 
-Progress
-Benefits
-With any plan more detailed in short terms
-Track Progress
-Accountabilities
-
+Need to take account of [[Ofgem Best Practice]]
 
 Stakeholders
 Engagement and Comms
@@ -121,8 +97,7 @@ A data warehouse is a database optimized to analyze relational data coming from 
 
 The main challenge with a data lake architecture is that raw data is stored with no oversight of the contents. For a data lake to make data usable, it needs to have defined mechanisms to catalog, and secure data. Without these elements, data cannot be found, or trusted resulting in a “data swamp." Meeting the needs of wider audiences require data lakes to have governance, semantic consistency, and access controls.
 
-Our roadmap for data will
-be developed collaboratively and through continuous engagement with our stakeholders
+Our roadmap for data will be developed collaboratively and through continuous engagement with our stakeholders
 
 We will introduce training on open / shared data - principles, risk assessments and support for culture change
 
@@ -142,5 +117,5 @@ Without this investment, we risk being unable to satisfy our stakeholders’ nee
 
 This document sets out our ambition and overarching target state, aligned with The Data Best Practice Guidance and the ambitions of the Energy Digitalisation and Energy Data Task Forces, to deliver incremental value for stakeholders and our high-level roadmap. Our proposed delivery model will provide the chance for us to learn as we go to increase the relevance and impact of our solutions for stakeholders on a sustainable basis.
 
-[[presentation]]
+[[Presentation]]
 
