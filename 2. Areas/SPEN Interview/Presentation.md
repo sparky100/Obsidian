@@ -11,7 +11,13 @@ Date
 
 # Data Strategy
 Shift in thinking
-improve performance --> need data  -> treat is as an asset -> culture
+
+look back
+look forward
+modelling
+evidence based 
+
+improve performance  --> need data  -> treat is as an asset -> culture
 -> governance
 ->technology
 ->
