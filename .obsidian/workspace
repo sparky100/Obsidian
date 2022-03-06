@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SPEN Interview.md",
+            "file": "presentation.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SPEN Interview.md",
+                "file": "presentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +117,7 @@
   },
   "active": "9c29ea7dc75742c8",
   "lastOpenFiles": [
+    "presentation.md",
     "SPEN Interview.md",
     "2022-03-06.md",
     "Ofgem Best Practice.md",
@@ -125,7 +126,6 @@
     "Data.md",
     "Identify.md",
     "Data Best Practice Guidance Principles.md",
-    "Possible Gigs.md",
-    "2021-08-15.md"
+    "Possible Gigs.md"
   ]
 }
