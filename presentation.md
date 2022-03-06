@@ -1,22 +1,33 @@
 
 "How would you implement a data strategy within a licensed organisation?”
+
 What is a data strategy
+	Why is it different fro 
+	Shift in thinking
+	Culture
+	Engagement
+
 What does it look like 
+Multiple connected threads
+
 Delivery methodology - programme/project/ work package delivery
-Resources - people / technology 
+
+Resources - people / technology / funding  / time
+
 impact of regulation
-obligations
-progress monitoring
-stakeholder management
+	understand current obligations
+	shape and understand
+	communicate 
+	report
+	adjust planing based on	
+	work with others
 
 
 
 
 --- 
 
-Shift in thinking
-Culture
-Engagement
+
 
 
 **Data Strategy
