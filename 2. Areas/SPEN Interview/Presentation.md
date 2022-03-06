@@ -1,46 +1,46 @@
 
+#T
 "How would you implement a data strategy within a licensed organisation?”
+Image with the 3 elements
 
-What is a data strategy
-	Why is it different fro 
-	Shift in thinking - data is an asset
-	Culture
-	Engagement
+
+
+# What is a Data Strategy
+* Shift in thinking - data is an asset
+* Culture
+* Stakeholder management
+*  Link to Digitlaisation 
 	
 Data Strategy is driven by your organisation's overall Business Strategy and business model.”
 What does it look like 
 Multiple connected threads
 
-Delivery methodology - programme/project/ work package delivery
-
+# Delivery
 * Prioritisation
-* Roles and responsibilities
+* Products/Outcomes
+* Governance
 * Planning
-* Resource management - people / technology
+* Quality / review
 * Progress
+* Resource  
+* Change
 * Risk and Issues
-* * Dependencies
-* Organisational processes
-* 
+* Dependencies
+* Organisation
+* Learning
+* Benefits tracking 
 
-
-People
-Technology Delivery
-Embedding
-
-Our roadmap for data will be developed collaboratively and through continuous engagement with our stakeholders
+**Our roadmap for data will be developed collaboratively and through continuous engagement with our stakeholders**
 
 Maturity Assessment - review 
 
-Resources - people / technology / funding  / time
-
-impact of regulation
-	understand current obligations
-	shape and understand
-	communicate 
-	report progress / costs
-	adjust planing based on feedback	
-	work with others
+# Impact of Regulation
+* understand current obligations
+* shape and understand
+* communicate 
+*	report progress / costs
+*	adjust planing based on feedback	
+*	work with others
 
 
 [[Data Strategy]]

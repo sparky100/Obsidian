@@ -7,11 +7,9 @@
         "id": "9c29ea7dc75742c8",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "2. Areas/SPEN Interview/Presentation.md",
-            "mode": "source",
-            "source": false
+            "file": "Excalidraw/Drawing 2022-03-06 17.25.07.excalidraw.md"
           }
         }
       }
@@ -77,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Areas/SPEN Interview/Presentation.md",
+                "file": "Excalidraw/Drawing 2022-03-06 17.25.07.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +113,7 @@
   },
   "active": "9c29ea7dc75742c8",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2022-03-06 17.25.07.excalidraw.md",
     "2. Areas/SPEN Interview/Presentation.md",
     "2. Areas/SPEN Interview/Data Strategy.md",
     "2. Areas/SPEN Interview/Interview Notes.md",
@@ -123,7 +122,6 @@
     "Workbench.md",
     "2022-03-06.md",
     "Identify the roles of stakeholders of Data Assets.md",
-    "[.md",
-    "Data.md"
+    "[.md"
   ]
 }
