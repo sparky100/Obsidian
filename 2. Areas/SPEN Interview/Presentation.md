@@ -7,15 +7,21 @@ What is a data strategy
 	Culture
 	Engagement
 	
-Data Strategy is driven by your organization’s overall Business Strategy and business model.”
+Data Strategy is driven by your organisation's overall Business Strategy and business model.”
 What does it look like 
 Multiple connected threads
 
 Delivery methodology - programme/project/ work package delivery
+
+* Prioritisation
+* Roles and responsibilities
 * Planning
-* Governance
-* Tracking
-* Risk and Issue management
+* Resource management - people / technology
+* Progress
+* Risk and Issues
+* * Dependencies
+* Organisational processes
+* 
 
 
 People
