@@ -10,7 +10,27 @@ Date
 
 
 # Data Strategy
-* 
+Shift in thinking
+improve performance --> need data  -> treat is as an asset -> culture
+-> governance
+->technology
+->
+
+Asset  --> Improved Decision Making
+People
+Capture 
+Storage
+Provisioning
+Governance
+
+
+
+Maturity
+
+
+
+
+
 * Shift in thinking - data is an asset
 * Culture
 * Stakeholder management
