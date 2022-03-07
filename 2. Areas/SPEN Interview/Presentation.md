@@ -53,8 +53,7 @@ Maturity
 
 # Implementation
 
-
-![[Pasted image 20220306205951.png]]
+![[Pasted image 20220306222828.png]]
 * Prioritisation
 * Products/Outcomes
 * Approach - agile / waterfall
