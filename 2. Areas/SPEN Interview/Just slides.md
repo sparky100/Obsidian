@@ -24,11 +24,7 @@ Simon Parkinson
 ---
 
 # Regulation
-* understand current obligations
-* shape and understand
-* report progress / changes
-* adjust planing based on feedback	
-* work with others
+!![[Pasted image 20220307181756.png]]
 
 ---
 
