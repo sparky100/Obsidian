@@ -34,7 +34,7 @@ as an asset ^LECIZoHG
 Provide New services ^JEL16eOr
 
 Regulatory 
-Requirements ^2uRCQYcc
+Requirements ^DsSQRUEs
 
 %%
 # Drawing
@@ -1361,7 +1361,7 @@ Requirements ^2uRCQYcc
 			"verticalAlign": "top"
 		},
 		{
-			"id": "2uRCQYcc",
+			"id": "DsSQRUEs",
 			"type": "text",
 			"x": -450.4521567681576,
 			"y": -387.46717923137794,
