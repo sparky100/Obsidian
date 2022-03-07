@@ -33,7 +33,7 @@ Understanding ^MsQ9MNtD
 Treat data 
 as an asset ^LECIZoHG
 
-Provide New services ^TsSDEVud
+Provide New services ^JEL16eOr
 
 %%
 # Drawing
@@ -99,8 +99,8 @@ Provide New services ^TsSDEVud
 		},
 		{
 			"type": "ellipse",
-			"version": 983,
-			"versionNonce": 846534398,
+			"version": 1014,
+			"versionNonce": 1132342398,
 			"isDeleted": false,
 			"id": "j2Lq-FQa-diNHBF_cVjl_",
 			"fillStyle": "hachure",
@@ -109,8 +109,8 @@ Provide New services ^TsSDEVud
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -562.7192022227033,
-			"y": -894.0754043396033,
+			"x": -448.4334879369891,
+			"y": -886.9325471967461,
 			"strokeColor": "#000000",
 			"backgroundColor": "#82c91e",
 			"width": 283,
@@ -124,7 +124,7 @@ Provide New services ^TsSDEVud
 				"oNNToVsRZK5oTlEsaAxd3",
 				"GvLFksIcr7k5-ML5fOOT8"
 			],
-			"updated": 1646673194129
+			"updated": 1646673773896
 		},
 		{
 			"type": "ellipse",
@@ -407,8 +407,8 @@ Provide New services ^TsSDEVud
 		},
 		{
 			"type": "ellipse",
-			"version": 1094,
-			"versionNonce": 2120794436,
+			"version": 1144,
+			"versionNonce": 1064094782,
 			"isDeleted": false,
 			"id": "RiSaadG_XA1WeD6Opqt_q",
 			"fillStyle": "hachure",
@@ -417,8 +417,8 @@ Provide New services ^TsSDEVud
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -418.34582559932653,
-			"y": -168.89466840886723,
+			"x": -234.0601113136123,
+			"y": -128.89466840886723,
 			"strokeColor": "#000000",
 			"backgroundColor": "#82c91e",
 			"width": 283,
@@ -431,12 +431,12 @@ Provide New services ^TsSDEVud
 				"UMRGo7IFC6imLArXzUmoj",
 				"U7NeoVUUp1YkTKzuy4QhB"
 			],
-			"updated": 1646604777567
+			"updated": 1646673589829
 		},
 		{
 			"type": "text",
-			"version": 348,
-			"versionNonce": 1675012676,
+			"version": 381,
+			"versionNonce": 1752193570,
 			"isDeleted": false,
 			"id": "4eaPzEr5",
 			"fillStyle": "hachure",
@@ -445,8 +445,8 @@ Provide New services ^TsSDEVud
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -363.18673469023554,
-			"y": -99.94012295432174,
+			"x": -188.90102040452132,
+			"y": -67.08298009717885,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 190,
@@ -455,7 +455,7 @@ Provide New services ^TsSDEVud
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElementIds": [],
-			"updated": 1646604585423,
+			"updated": 1646673593861,
 			"fontSize": 20,
 			"fontFamily": 1,
 			"text": "Increasing volumes \nand data types",
@@ -466,8 +466,8 @@ Provide New services ^TsSDEVud
 		},
 		{
 			"type": "arrow",
-			"version": 536,
-			"versionNonce": 1364951292,
+			"version": 636,
+			"versionNonce": 1925485694,
 			"isDeleted": false,
 			"id": "U7NeoVUUp1YkTKzuy4QhB",
 			"fillStyle": "hachure",
@@ -476,17 +476,17 @@ Provide New services ^TsSDEVud
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -209.34582559932653,
-			"y": -163.14466840886723,
+			"x": -81.56424767639832,
+			"y": -133.18167333087024,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 53.75,
-			"height": 90,
+			"width": 8.043122700251715,
+			"height": 107.05106657868185,
 			"seed": 1539956604,
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElementIds": [],
-			"updated": 1646604585937,
+			"updated": 1646673589829,
 			"startBinding": {
 				"elementId": "RiSaadG_XA1WeD6Opqt_q",
 				"focus": 0.12588534677269073,
@@ -506,8 +506,8 @@ Provide New services ^TsSDEVud
 					0
 				],
 				[
-					53.75,
-					-90
+					-8.043122700251715,
+					-107.05106657868185
 				]
 			]
 		},
@@ -925,8 +925,8 @@ Provide New services ^TsSDEVud
 		},
 		{
 			"type": "ellipse",
-			"version": 1135,
-			"versionNonce": 1542817598,
+			"version": 1137,
+			"versionNonce": 706220414,
 			"isDeleted": false,
 			"id": "9LEGheGlE1Lf9AArJpKhO",
 			"fillStyle": "hachure",
@@ -956,9 +956,10 @@ Provide New services ^TsSDEVud
 				"WuNMMxk3kQ--p3zTvXONt",
 				"bG1O-HwB7s4B1fCzer8Cv",
 				"Kp86vv-8ric-Cl0ZYHOXY",
-				"tRRrHlHQNZw-xcPQvvIOj"
+				"tRRrHlHQNZw-xcPQvvIOj",
+				"oNNToVsRZK5oTlEsaAxd3"
 			],
-			"updated": 1646673194129
+			"updated": 1646673573220
 		},
 		{
 			"type": "text",
@@ -1319,10 +1320,10 @@ Provide New services ^TsSDEVud
 		{
 			"id": "oNNToVsRZK5oTlEsaAxd3",
 			"type": "arrow",
-			"x": -276.44800688850285,
-			"y": -762.2155348629875,
-			"width": 497.65507575140833,
-			"height": 336.95761422433753,
+			"x": -166.80045806469576,
+			"y": -749.5920937896194,
+			"width": 399.54240955519936,
+			"height": 320.3725608448746,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "#15aabf",
@@ -1334,19 +1335,19 @@ Provide New services ^TsSDEVud
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 2024903486,
-			"version": 210,
-			"versionNonce": 2094101026,
+			"version": 276,
+			"versionNonce": 1715465406,
 			"isDeleted": false,
 			"boundElementIds": null,
-			"updated": 1646673195425,
+			"updated": 1646673773897,
 			"points": [
 				[
 					0,
 					0
 				],
 				[
-					497.65507575140833,
-					336.95761422433753
+					399.54240955519936,
+					320.3725608448746
 				]
 			],
 			"lastCommittedPoint": null,
@@ -1355,17 +1356,21 @@ Provide New services ^TsSDEVud
 				"focus": -0.4334980488997274,
 				"gap": 18.12490530277499
 			},
-			"endBinding": null,
+			"endBinding": {
+				"elementId": "9LEGheGlE1Lf9AArJpKhO",
+				"focus": 0.22917496471823773,
+				"gap": 12.154004568025172
+			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
 		},
 		{
 			"id": "GvLFksIcr7k5-ML5fOOT8",
 			"type": "arrow",
-			"x": -794.6237958876912,
-			"y": -428.75498562596397,
-			"width": 283.16287328591153,
-			"height": 296.6741466530485,
+			"x": -779.677492436261,
+			"y": -422.8653612632828,
+			"width": 368.7479655361638,
+			"height": 302.6130254051661,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "#15aabf",
@@ -1377,19 +1382,19 @@ Provide New services ^TsSDEVud
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1900649634,
-			"version": 89,
-			"versionNonce": 1741112354,
+			"version": 153,
+			"versionNonce": 56599806,
 			"isDeleted": false,
 			"boundElementIds": null,
-			"updated": 1646673155559,
+			"updated": 1646673773897,
 			"points": [
 				[
 					0,
 					0
 				],
 				[
-					283.16287328591153,
-					-296.6741466530485
+					368.7479655361638,
+					-302.6130254051661
 				]
 			],
 			"lastCommittedPoint": null,
@@ -1407,10 +1412,10 @@ Provide New services ^TsSDEVud
 			"endArrowhead": "arrow"
 		},
 		{
-			"id": "TsSDEVud",
+			"id": "JEL16eOr",
 			"type": "text",
-			"x": -519.8620593655602,
-			"y": -825.2896900538891,
+			"x": -404.14777365127486,
+			"y": -809.5754043396034,
 			"width": 203,
 			"height": 25,
 			"angle": 0,
@@ -1424,11 +1429,11 @@ Provide New services ^TsSDEVud
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"seed": 33534718,
-			"version": 84,
-			"versionNonce": 340350818,
+			"version": 128,
+			"versionNonce": 1547997886,
 			"isDeleted": false,
 			"boundElementIds": null,
-			"updated": 1646673185161,
+			"updated": 1646673777913,
 			"text": "Provide New services",
 			"rawText": "Provide New services",
 			"fontSize": 20,

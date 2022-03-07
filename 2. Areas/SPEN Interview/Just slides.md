@@ -12,7 +12,7 @@ Simon Parkinson
 ---
 
 ## Data Strategy
-![[Pasted image 20220306221527.png]]
+![[Pasted image 20220307172328.png]]
 
 
 ---
