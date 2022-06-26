@@ -57,4 +57,10 @@ Because we bump into reinforcing loops so often, it is handy to know this shortc
 Example: If you put $100 in the bank at 7% interest per year, you will double your money in 10 years (70 ÷ 7 = 10). If you get only 5% interest, your money will take 14 years to double.
 
 ## Chapter 2 -A Brief Visit to the Systems Zoo
+The information delivered by a feedback loop will affect only future behavior.
+by a feedback loop—even nonphysical feedback—can only affect future
+behavior; it can’t delivera signal fast enough to  correct behavior that
+drove the current feed-back. Even nonphysical information takes time to
+feedback into the system.
+
 ## Further Reading
