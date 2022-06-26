@@ -52,4 +52,9 @@ The second kind of feedback loop is amplifying, reinforcing, self-multiplying, s
 
 Reinforcing loops are found wherever a system element has the ability to reproduce itself or to grow as a constant fraction of itself. 
 
+**HINT ON REINFORCING LOOPS AND DOUBLING TIME**
+Because we bump into reinforcing loops so often, it is handy to know this shortcut: The time it takes for an exponentially growing stock to double in size, the “doubling time,” equals approximately 70 divided by the growth rate (expressed as a percentage).
+Example: If you put $100 in the bank at 7% interest per year, you will double your money in 10 years (70 ÷ 7 = 10). If you get only 5% interest, your money will take 14 years to double.
+
+## Chapter 2 -A Brief Visit to the Systems Zoo
 ## Further Reading
