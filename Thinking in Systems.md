@@ -57,10 +57,16 @@ Because we bump into reinforcing loops so often, it is handy to know this shortc
 Example: If you put $100 in the bank at 7% interest per year, you will double your money in 10 years (70 ÷ 7 = 10). If you get only 5% interest, your money will take 14 years to double.
 
 ## Chapter 2 -A Brief Visit to the Systems Zoo
-The information delivered by a feedback loop will affect only future behavior.
-by a feedback loop—even nonphysical feedback—can only affect future
-behavior; it can’t delivera signal fast enough to  correct behavior that
-drove the current feed-back. Even nonphysical information takes time to
-feedback into the system.
+## One-Stock Systems
+
+A Stock with Two Competing Balancing Loops—a Thermostat
+
+![[Pasted image 20220626201210.png]]
+The information delivered by a feedback loop will affect only future behaviour. —even nonphysical feedback—can only affect future  behaviour; it can’t deliver a signal fast enough to  correct behaviour that drove the current feed-back. Even nonphysical information takes time to feedback into the system.
+
+## A Stock with One Reinforcing Loop and One Balancing Loop—Population and Industrial Economy
+
+![[Pasted image 20220626201311.png]]
+... This behavior is an example of shifting dominance of feedback loops. Dominance is an important concept in systems thinking. When one loop dominates another, it has a stronger impact on behavior. Because systems often have several competing feedback loops operating simultaneously, those loops that dominate the system will determine the behavior.
 
 ## Further Reading
