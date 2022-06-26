@@ -69,4 +69,16 @@ The information delivered by a feedback loop will affect only future behaviour. 
 ![[Pasted image 20220626201311.png]]
 ... This behavior is an example of shifting dominance of feedback loops. Dominance is an important concept in systems thinking. When one loop dominates another, it has a stronger impact on behavior. Because systems often have several competing feedback loops operating simultaneously, those loops that dominate the system will determine the behavior.
 
+## A System with Delays—Business Inventory`
+
+![[Pasted image 20220626203012.png]]
+![[Pasted image 20220626203220.png]]
+
+![[Pasted image 20220626203421.png]]
+Delays are pervasive in systems, and they are strong determinants of behaviour. **Changing the length of a delay may** (or may not, depending on the type of delay and the relative the one that is not under the direct control of lengths of other delays) **make a large change in the behaviour of a system**.
+
+## Two-Stock Systems
+### A Renewable Stock Constrained by a Nonrenewable Stock—an Oil Economy
+
+
 ## Further Reading
