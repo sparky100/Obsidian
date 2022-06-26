@@ -79,6 +79,9 @@ Delays are pervasive in systems, and they are strong determinants of behaviour. 
 
 ## Two-Stock Systems
 ### A Renewable Stock Constrained by a Nonrenewable Stock—an Oil Economy
+![[Pasted image 20220626204225.png]]
+
+A quantity growing exponentially toward a constraint or limit reaches that limit in surprisingly short time.
 
 
 ## Further Reading
