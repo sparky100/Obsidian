@@ -42,6 +42,14 @@ context of an information-feedback system.
 
 **Stabilizing Loops—Balancing Feedback**
 ![[Pasted image 20220626173419.png]]
-This kind of stabilising, goal-seeking, regulating loop is called a balancing feedback loop, so I put a B inside the loop in the diagram. Balancing feedback loops are goal-seeking or stability-seeking.
+This kind of stabilising, goal-seeking, regulating loop is called a balancing feedback loop, so I put a **B** inside the loop in the diagram. Balancing feedback loops are *goal-seeking* or *stability-seeking*
+
+*Balancing feedback loops are equilibrating or goal-seeking structures in systems and are both sources of stability  and sources of resistance change.*
+
+**Runaway Loops—Reinforcing Feedback**
+
+The second kind of feedback loop is amplifying, reinforcing, self-multiplying, snowballing—a vicious or virtuous circle that can cause healthy growth or runaway destruction. It is called a **reinforcing feedback loop**, and will be noted with an **R** in the diagrams. It generates more input to a stock the more that is already there (and less input the less that is already there). A reinforcing feedback loop enhances whatever direction of change is imposed on it.
+
+Reinforcing loops are found wherever a system element has the ability to reproduce itself or to grow as a constant fraction of itself. 
 
 ## Further Reading
