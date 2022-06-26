@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A.md",
-            "mode": "preview",
+            "file": "Thinking in Systems.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 197
+    "width": 197,
+    "collapsed": true
   },
   "right": {
     "id": "cb8094e37c0c1110",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A.md",
+                "file": "Thinking in Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,15 +112,16 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348
+    "width": 348,
+    "collapsed": true
   },
   "active": "aed2876fcf26b11d",
   "lastOpenFiles": [
+    "Thinking in Systems.md",
     "A.md",
     "Untitled 1.md",
     "Templates/Article.md",
     "Templates/Book.md",
-    "Thinking in Systems.md",
     "Pasted image 20220306172933.png",
     "Pasted image 20220306221505.png",
     "Pasted image 20220307172328.png",
